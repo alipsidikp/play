@@ -1,1 +1,2 @@
 initial - chech with ssh
+vs code git
